@@ -18,7 +18,3 @@ def bubble_sort_by(array)
   array
 end
 
-p bubble_sort([4,3,78,2,0,2])
-p bubble_sort([6, 5, 4, 3, 2, 1, 0])
-
-p bubble_sort_by(["hi","hello","hey", "hawdy"]) { |left,right| left.length - right.length }
